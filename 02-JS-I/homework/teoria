@@ -1,0 +1,5 @@
+Variables: es Como una caja con un determinado nombre, donde se puede guardar un elemento, por ejemplo un número; Después se los puede recuperar cuando se necesite
+string: es un una serie de letras básicamente que se pueden encadenar, siempre se guardan entre comillas.
+función: es una manera de agrupar elementos y luego recuperarlos, recibe datos denominados argumentos y puede retornar un resultado
+if: es la que nos permite realizar una funcion lógica, es decir, si pasa esto, que haga algo y si no pasa que haga otra cosa.
+booleanos: es un tipo de variable, que sólo admite verdadero o falso, sólo se puede almacenar ese tipo de datos.

@@ -1,0 +1,4 @@
+For: es una condición que signifa hacer algo hasta que suceda una condición de freno determianada. va a realizar las intrucciones hasta que una condición la frene.
+&&: condición lógica que significa 'y' es decir si esto y aquello sucede pasara algo. 
+||: condición lógica que signifa 'o' si esto o aquello sucede, pasara algo.
+!: significa 'no', es decir que va a negar todo lo que esté a continuación.
